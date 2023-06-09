@@ -1,3 +1,5 @@
-.hola {
-    background-color: aquamarine;
+.card-img-top {
+    background-size: cover;
+    height: 200px;
 }
+
